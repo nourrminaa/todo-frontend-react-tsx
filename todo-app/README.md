@@ -1,6 +1,6 @@
 _This projet was made by Nour Mina as part of the IDS Fintech Backend Training Program_ <br>
-_website: https://nourminaa.github.io/todo-app/_ <br>
-_github repo: https://github.com/nourminaa/todo-app_ <br>
+_website: https://nourminaa-todo-frontend-react-tsx/_ <br>
+_github repo: https://github.com/nourminaa/todo-frontend-react-tsx_ <br>
 
 # Task Tracker
 
